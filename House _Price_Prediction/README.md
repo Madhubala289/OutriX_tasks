@@ -30,7 +30,7 @@ The goal is to clean the data, perform feature engineering, and train regression
 
 ## How to Use
 
-1. Download the dataset from Kaggle and place `train.csv` in the project folder.
+1. Download the dataset `train.csv` in the project folder.
 2. Run the Jupyter Notebook `notebook.ipynb` step by step.
 3. Observe data preprocessing, model training, evaluation metrics, and visualizations.
 
